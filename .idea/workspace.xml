@@ -2,29 +2,13 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/LinkedList.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/StringQuestions.java" line="37" />
+    <bookmark url="file://$PROJECT_DIR$/src/StringQuestions.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40203e19-d2a7-4ecc-b81e-54317c9d35a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="40203e19-d2a7-4ecc-b81e-54317c9d35a1" name="Default Changelist" comment="Card.java&#10;- Card abstraction&#10;&#10;NumberQuestions.java&#10;- twoSum&#10;- USDtoEuro&#10;- maxProfit&#10;&#10;StringQuestions.java&#10;- isPalindrome&#10;- wordPattern&#10;- convertToWords&#10;- isValid&#10;- numJewelsInStones&#10;- isAnagram&#10;&#10;Tree.java&#10;- preOrderTraversal&#10;- preOrderTraversalRec&#10;&#10;LinkedList.java&#10;- reverse&#10;- reverseRecursive&#10;- clone&#10;- oddEvenList&#10;- printKthLastNode&#10;- mergeTwoSortedLists&#10;- addTwoNumbers&#10;- hasCycle&#10;- printLinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePruning$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePruning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CreditCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CreditCardSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CreditCardSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreePruning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bloomy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bloomy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringQuestions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +60,8 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -87,8 +71,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9908" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="JAVA" value="12433" />
+          <entry key="PLAIN_TEXT" value="456" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,11 +102,9 @@
         <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="262" column="27" lean-forward="true" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
+              <caret line="262" column="27" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
                 <element signature="method#insert#0;class#LinkedList#0" />
                 <element signature="method#reverse#0;class#LinkedList#0" />
                 <element signature="method#reverseRecursive#0;class#LinkedList#0" />
@@ -139,12 +121,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StringQuestions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="166" column="8" lean-forward="true" selection-start-line="166" selection-start-column="8" selection-end-line="183" selection-end-column="20" />
+            <state relative-caret-position="219">
+              <caret line="231" column="23" lean-forward="true" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2833#2844#0" expanded="true" />
-                <element signature="e#3327#3349#0" expanded="true" />
+                <element signature="method#isPalindrome#0;class#StringQuestions#0" />
+                <element signature="method#palindromeHelper#0;class#StringQuestions#0" />
+                <element signature="method#wordPattern#0;class#StringQuestions#0" />
+                <element signature="method#convertToWords#0;class#StringQuestions#0" />
+                <element signature="method#convertToWordsHelper#0;class#StringQuestions#0" />
+                <element signature="method#isValid#0;class#StringQuestions#0" />
+                <element signature="method#numJewelsInStones#0;class#StringQuestions#0" />
+                <element signature="method#isAnagram#0;class#StringQuestions#0" />
+                <element signature="method#numIslands#0;class#StringQuestions#0" />
+                <element signature="method#DFSIslandHelper#0;class#StringQuestions#0" />
               </folding>
             </state>
           </provider>
@@ -153,7 +143,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberQuestions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="1088">
               <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="66" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -181,7 +171,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1203">
+            <state relative-caret-position="1921">
               <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -244,10 +234,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-110" />
-    <option name="y" value="-30" />
-    <option name="width" value="2480" />
-    <option name="height" value="1275" />
+    <option name="x" value="-918" />
+    <option name="y" value="-12" />
+    <option name="width" value="3100" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -255,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -284,13 +275,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553140881276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553227357756" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -382,17 +372,26 @@
       <workItem from="1552873645581" duration="598000" />
       <workItem from="1553110718558" duration="3290000" />
       <workItem from="1553117506678" duration="12662000" />
+      <workItem from="1553180370727" duration="14268000" />
     </task>
+    <task id="LOCAL-00001" summary="Card.java&#10;- Card abstraction&#10;&#10;NumberQuestions.java&#10;- twoSum&#10;- USDtoEuro&#10;- maxProfit&#10;&#10;StringQuestions.java&#10;- isPalindrome&#10;- wordPattern&#10;- convertToWords&#10;- isValid&#10;- numJewelsInStones&#10;- isAnagram&#10;&#10;Tree.java&#10;- preOrderTraversal&#10;- preOrderTraversalRec&#10;&#10;LinkedList.java&#10;- reverse&#10;- reverseRecursive&#10;- clone&#10;- oddEvenList&#10;- printKthLastNode&#10;- mergeTwoSortedLists&#10;- addTwoNumbers&#10;- hasCycle&#10;- printLinkedList">
+      <created>1553180735849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553180735849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80521000" />
+    <option name="totallyTimeSpent" value="94789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,8 +400,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22695035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41702127" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28794327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -428,11 +427,37 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Card.java&#10;- Card abstraction&#10;&#10;NumberQuestions.java&#10;- twoSum&#10;- USDtoEuro&#10;- maxProfit&#10;&#10;StringQuestions.java&#10;- isPalindrome&#10;- wordPattern&#10;- convertToWords&#10;- isValid&#10;- numJewelsInStones&#10;- isAnagram&#10;&#10;Tree.java&#10;- preOrderTraversal&#10;- preOrderTraversalRec&#10;&#10;LinkedList.java&#10;- reverse&#10;- reverseRecursive&#10;- clone&#10;- oddEvenList&#10;- printKthLastNode&#10;- mergeTwoSortedLists&#10;- addTwoNumbers&#10;- hasCycle&#10;- printLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Card.java&#10;- Card abstraction&#10;&#10;NumberQuestions.java&#10;- twoSum&#10;- USDtoEuro&#10;- maxProfit&#10;&#10;StringQuestions.java&#10;- isPalindrome&#10;- wordPattern&#10;- convertToWords&#10;- isValid&#10;- numJewelsInStones&#10;- isAnagram&#10;&#10;Tree.java&#10;- preOrderTraversal&#10;- preOrderTraversalRec&#10;&#10;LinkedList.java&#10;- reverse&#10;- reverseRecursive&#10;- clone&#10;- oddEvenList&#10;- printKthLastNode&#10;- mergeTwoSortedLists&#10;- addTwoNumbers&#10;- hasCycle&#10;- printLinkedList" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringQuestions.java</url>
+          <line>227</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="66" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -450,6 +475,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bloomy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -460,34 +495,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberQuestions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="66" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1203">
-          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="262" column="27" lean-forward="true" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
+          <caret line="262" column="27" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
             <element signature="method#insert#0;class#LinkedList#0" />
             <element signature="method#reverse#0;class#LinkedList#0" />
             <element signature="method#reverseRecursive#0;class#LinkedList#0" />
@@ -502,12 +515,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringQuestions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="166" column="8" lean-forward="true" selection-start-line="166" selection-start-column="8" selection-end-line="183" selection-end-column="20" />
+        <state relative-caret-position="219">
+          <caret line="231" column="23" lean-forward="true" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2833#2844#0" expanded="true" />
-            <element signature="e#3327#3349#0" expanded="true" />
+            <element signature="method#isPalindrome#0;class#StringQuestions#0" />
+            <element signature="method#palindromeHelper#0;class#StringQuestions#0" />
+            <element signature="method#wordPattern#0;class#StringQuestions#0" />
+            <element signature="method#convertToWords#0;class#StringQuestions#0" />
+            <element signature="method#convertToWordsHelper#0;class#StringQuestions#0" />
+            <element signature="method#isValid#0;class#StringQuestions#0" />
+            <element signature="method#numJewelsInStones#0;class#StringQuestions#0" />
+            <element signature="method#isAnagram#0;class#StringQuestions#0" />
+            <element signature="method#numIslands#0;class#StringQuestions#0" />
+            <element signature="method#DFSIslandHelper#0;class#StringQuestions#0" />
           </folding>
         </state>
       </provider>
